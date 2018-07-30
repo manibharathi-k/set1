@@ -1,5 +1,5 @@
 import java.util.*;
-class check
+class check1
 {
     public static void main(String ars[])
     {
